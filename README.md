@@ -5,3 +5,5 @@ The program's operation is regulated by configuration files made in the "xml" fo
 
 For more information follow this link:
 https://docs.google.com/document/d/1kuZrzzNqZEf3k4uaP1hOV_dk8Kex4YpuhBsueaEJGAE/edit?usp=sharing
+
+Support email: kotrec@gmail.com
