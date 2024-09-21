@@ -3,5 +3,5 @@ FileDispatcher provides guaranteed delivery of files from the remaining with the
 With this program you can organize file exchange from different computers and manage this exchange from one point.
 The program's operation is regulated by configuration files made in the "xml" format.
 
-
+For more information follow this link:
 https://docs.google.com/document/d/1ESkx1R-LHairyizKJ4CHJzycZ1PMrbgW/edit?usp=sharing&ouid=109410772384549089831&rtpof=true&sd=true
