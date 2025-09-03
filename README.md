@@ -4,6 +4,7 @@ With this program you can organize file exchange from different computers and ma
 The program's operation is regulated by configuration files made in the "xml" format.
 
 For more information follow this link:
+
 https://docs.google.com/document/d/1kuZrzzNqZEf3k4uaP1hOV_dk8Kex4YpuhBsueaEJGAE/edit?usp=sharing
 https://docs.google.com/document/d/1iKS0yzDDuET3ueXA-maZUZsBnOPe4H7ScjN-qBnA7mw/edit?usp=sharing
 
